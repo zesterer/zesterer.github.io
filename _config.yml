@@ -2,7 +2,7 @@ title: Welcome
 description: Zesterer's GitHub Projects
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: nielsenramon/chalk
 
 gems:
   - jekyll-mentions
